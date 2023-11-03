@@ -1,0 +1,8 @@
+ItemName_FR = {
+	ItemName_ammomaker.ammomaker_BirdExcrement = "Excréments d'oiseaux",
+	ItemName_ammomaker.ammomaker_CharcoalPowder = "Poudre de charbon",
+	ItemName_ammomaker.ammomaker_Nitre = "Nitre",
+	ItemName_ammomaker.ammomaker_PotOfBridExcrement = "Pot d'excréments d'oiseaux",
+	ItemName_ammomaker.ammomaker_RecPlastic = "Plastique recyclé",
+	ItemName_ammomaker.ammomaker_Sulfur = "Soufre",
+}
