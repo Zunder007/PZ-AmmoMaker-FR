@@ -1,0 +1,10 @@
+IG_UI_FR = {
+	IGUI_CraftCategory_Ammo_Maker = "Munitions - Fabrication",
+	IGUI_CraftCategory_Ammo_Maker_Base = "Munitions - Base",
+	IGUI_CraftCategory_Ammo_Maker_A26GF = "Munitions - A26GF",
+	IGUI_CraftCategory_Ammo_Maker_CJ = "Munitions - CJ",
+	IGUI_CraftCategory_Ammo_Maker_FA = "Munitions - FA",
+	IGUI_CraftCategory_Ammo_Maker_PSA = "Munitions - PSA",
+	IGUI_CraftCategory_Ammo_Maker_VFE = "Munitions - VFE",
+	IGUI_CraftCategory_Ammo_Maker_Gather_Gunpowder = "Munitions - Récupération Poudre",
+}
