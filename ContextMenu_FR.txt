@@ -1,0 +1,17 @@
+ContextMenu_FR = {
+	ContextMenu_Ammo_Maker = "Fabrication de munitions",
+	ContextMenu_Bird_Feeder = "Mangeoire pour oiseaux",
+	ContextMenu_Description_0 = "Transforme les graines en excréments d'oiseaux pendant la journée. L'alternative stationnaire à la recherche de nourriture.",
+	ContextMenu_Description_1 = "Matériaux:",
+	ContextMenu_Description_2 = "Planche",
+	ContextMenu_Description_3 = "/2",
+	ContextMenu_Description_4 = "Clous",
+	ContextMenu_Description_5 = "Outils:",
+	ContextMenu_Description_6 = "Marteau",
+	ContextMenu_Description_7 = "Scie",
+	ContextMenu_Description_8 = "Compétences:",
+	ContextMenu_Description_9 = "Menuiserie",
+	ContextMenu_Description_10 = "/4",
+	ContextMenu_Tooltip_0 = "Appuyer sur",
+	ContextMenu_Tooltip_1 = "pour faire pivoter pendant la construction",
+}
