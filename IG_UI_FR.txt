@@ -7,4 +7,10 @@ IG_UI_FR = {
 	IGUI_CraftCategory_Ammo_Maker_PSA = "Munitions - PSA",
 	IGUI_CraftCategory_Ammo_Maker_VFE = "Munitions - VFE",
 	IGUI_CraftCategory_Ammo_Maker_Gather_Gunpowder = "Munitions - Récupération Poudre",
+
+	IGUI_CraftCategory_AmmoMaker = "Ammo Maker: La Base",
+	IGUI_CraftCategory_AmmoMakerRecycle = "Ammo Maker: Le Recyclage",
+	IGUI_CraftCategory_AmmoMakerParts = "Ammo Maker: Les Pièces",
+	IGUI_CraftCategory_AmmoMakerAmmo = "Ammo Maker: Les munitions",
+	IGUI_ContainerTitle_ammomaker_BirdFeeder = "Mangeoire pour oiseaux",
 }
